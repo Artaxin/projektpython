@@ -14,7 +14,7 @@ print("Menu: gra 1 to "+x+", gra 2 to "+y+", gra 3 to "+z)
 
 
 
-choice = input("Wybierz 1, 2 lub 3. Aby wyść z programu wybież 0 :")
+choice = input("Wybierz 1, 2 lub 3 :")
 
 
 if choice == '1':
